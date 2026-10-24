@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 129"
-  short_description: "Eastern Diffused Whitespace"
-  default_prompt: "Use $xxd-panel-129 to transform my photograph using the complete canonical source brief."
+  short_description: "东方弥散留白志：把照片化成剪影符号，配一大块柔边弥散的纯色几何和东方排字"
+  default_prompt: "Use $xxd-panel-129 to turn my photo into Eastern Diffused Whitespace artwork."

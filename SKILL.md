@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-129
-description: "Create XXD Panel 129 raster artwork from photographs using Eastern minimalist symbolism, large soft diffused geometric colour fields, paper grain, tiny subjects and restrained cultural typography. Use when the user invokes xxd-panel-129 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 129｜Eastern Diffused Whitespace: turns the key subject of a photo into a new-Chinese minimalist graphic poster, reducing it to a silhouette or symbol (circle, sun disc, seal shape, branch line, vessel outline) set small against one large, saturated geometric colour field with soft feathered, blurred, glowing edges, on off-white rice-paper texture, in 2–4 colours from the photo such as vermilion, ochre, pine green, grey-blue or ink black, with small calligraphy, Song-style or seal-style text mixed with fine Latin serif or thin sans. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-129 or asks for Eastern minimalist, new Chinese style, diffused gradient geometry or Zen whitespace posters from a photo."
 ---
 
 # XXD Panel 129

@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 129｜Eastern Diffused Whitespace: turns the key subject of a photo into a new-Chinese minimalist graphic poster, reducing it to a silhouette or symbol (circle, sun disc, seal shape, branch line, vessel outline) set small against one large, saturated geometric colour field with soft feathered, blurred, glowing edges, on off-white rice-paper texture, in 2–4 colours from the photo such as vermilion, ochre, pine green, grey-blue or ink black, with small calligraphy, Song-style or seal-style text mixed with fine Latin serif or thin sans. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-129 or asks for Eastern minimalist, new Chinese style, diffused gradient geometry or Zen whitespace posters from a photo.",
+  "short_description": "东方弥散留白志：把照片化成剪影符号，配一大块柔边弥散的纯色几何和东方排字",
+  "zh-CN": {
+    "name": "东方弥散留白志",
+    "tagline": "把照片化成一个东方剪影符号，配一大块边缘柔化发光的纯色几何。",
+    "look": "照片的主体被提炼成剪影或符号：一个圆、一轮日、一枚印章形、一枝枝叶线或一件器物轮廓，小小地放在画面里。旁边是一大块高饱和的纯色几何色域，形状规整，边缘却被羽化、模糊，带一点微光晕，像在纸上慢慢化开。背景是米白或浅纸色，带宣纸或手工纸纤维。颜色从照片里取 2–4 种，整理成朱红、赭红、暖黄、松绿、灰蓝、墨黑这类关系；文字很少，书法、宋体或篆刻感字和细衬线英文混排。",
+    "traits": [
+      "东方极简符号",
+      "大尺度弥散色域",
+      "柔边羽化光晕",
+      "宣纸纹理",
+      "小主体大留白"
+    ],
+    "good": [
+      "能化成一个剪影或符号的主体：一枝花、一座塔、一只鸟、一个茶碗",
+      "有季节或节气感的照片：雪中一棵树、秋天落叶、日出日落",
+      "想做成节气海报、东方品牌视觉或展签的生活与旅行照"
+    ],
+    "poor": [
+      "需要保留细节和身份的人像、合影",
+      "热闹复杂、信息多的街景或聚会",
+      "想要写实转绘、卡通、3D 或红金满版的传统节庆风"
+    ]
+  },
+  "en": {
+    "name": "Eastern Diffused Whitespace",
+    "tagline": "Turns your photo into an Eastern silhouette symbol beside one large block of colour with soft, glowing edges.",
+    "look": "The subject is distilled into a silhouette or symbol, such as a circle, a sun disc, a seal shape, a sprig of leaves or the outline of a vessel, placed small in the frame. Next to it sits one large field of saturated colour with a clean geometric shape but feathered, blurred and faintly glowing edges, as if it had slowly bled into the paper. The ground is off-white with rice-paper or handmade-paper fibres. Two to four colours from the photo are arranged into pairings like vermilion, ochre, warm yellow, pine green, grey-blue and ink black, and the sparse text mixes calligraphy, Song-style or seal-style characters with fine Latin serif type.",
+    "traits": [
+      "Eastern minimal symbols",
+      "Large diffused colour field",
+      "Feathered glowing edges",
+      "Rice-paper texture",
+      "Small subject, wide whitespace"
+    ],
+    "good": [
+      "Subjects that can become one silhouette or symbol: a flowering branch, a pagoda, a bird, a tea bowl",
+      "Photos with a sense of season: a tree in snow, autumn leaves, sunrise or sunset",
+      "Everyday or travel photos for a seasonal poster, an Eastern-inspired brand visual or an exhibition label"
+    ],
+    "poor": [
+      "Portraits or group photos that must keep detail and identity",
+      "Busy street scenes or parties packed with information",
+      "Requests for realistic redrawing, cartoon, 3D, or full red-and-gold festive decoration"
+    ]
+  },
+  "ja": {
+    "name": "東洋の拡散と余白",
+    "tagline": "写真を東洋的なシルエットの記号にし、縁がやわらかく光る大きな純色の幾何を添えます。",
+    "look": "写真の主役はシルエットや記号に凝縮されます。円、日輪、印章の形、枝葉の線、器の輪郭などが、画面の中に小さく置かれます。その隣には彩度の高い純色の幾何の色面が大きく広がり、形は端正なのに縁はぼかされ、羽のようにかすみ、わずかに光をまとって紙ににじんだように見えます。背景は生成りや淡い紙色で、和紙や手漉き紙の繊維があります。色は写真から 2〜4 色を取り、朱、弁柄、暖かい黄、松葉色、灰青、墨といった組み合わせに整えます。文字はわずかで、書や明朝体、篆刻風の文字と細いセリフ体の欧文を混ぜて組みます。",
+    "traits": [
+      "東洋的なミニマル記号",
+      "大きく拡散する色面",
+      "ぼかした縁の光暈",
+      "和紙の質感",
+      "小さな主役と広い余白"
+    ],
+    "good": [
+      "一つのシルエットや記号にできる主役：花の枝、塔、鳥、茶碗",
+      "季節感のある写真：雪の中の木、秋の落ち葉、日の出や日の入り",
+      "季節のポスター、東洋的なブランドビジュアル、展示ラベルにしたい日常や旅の写真"
+    ],
+    "poor": [
+      "細部や本人らしさを残したい人物写真や集合写真",
+      "情報の多いにぎやかな街並みやパーティー",
+      "写実的な描き直し、アニメ調、3D、赤と金で埋め尽くす伝統的なお祝い風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "동양 확산 여백",
+    "tagline": "사진을 동양적인 실루엣 기호로 바꾸고 가장자리가 부드럽게 번지며 빛나는 큰 순색 도형을 곁들입니다.",
+    "look": "사진의 주인공은 실루엣이나 기호로 압축됩니다. 원, 해, 낙관 모양, 가지와 잎의 선, 그릇의 윤곽 같은 것이 화면 속에 작게 놓입니다. 그 옆에는 채도 높은 순색 기하 색면이 크게 자리하는데, 형태는 반듯하지만 가장자리는 흐리게 깃털처럼 풀리고 은은한 빛번짐이 있어 종이에 천천히 스며든 듯합니다. 바탕은 미색이나 연한 종이색으로 화선지나 수제 종이의 섬유가 보입니다. 색은 사진에서 2~4가지를 골라 주홍, 적갈색, 따뜻한 노랑, 송록, 회청, 먹색 같은 관계로 정리하고, 글은 아주 적게 서예체, 명조체, 전각풍 글자와 가는 세리프 영문을 섞어 짭니다.",
+    "traits": [
+      "동양적 미니멀 기호",
+      "크게 번지는 색면",
+      "깃털처럼 흐린 빛번짐",
+      "화선지 질감",
+      "작은 주인공, 넓은 여백"
+    ],
+    "good": [
+      "하나의 실루엣이나 기호로 바꿀 수 있는 주인공: 꽃가지, 탑, 새, 찻사발",
+      "계절감이 있는 사진: 눈 속의 나무, 가을 낙엽, 해돋이나 해넘이",
+      "절기 포스터, 동양풍 브랜드 비주얼, 전시 라벨로 쓰고 싶은 일상·여행 사진"
+    ],
+    "poor": [
+      "세부와 인물의 개성을 살려야 하는 인물 사진이나 단체 사진",
+      "정보가 많은 북적이는 거리나 모임",
+      "사실적인 재현, 만화풍, 3D, 빨강과 금색으로 가득 찬 전통 명절풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الفراغ الشرقي المنتشر",
+    "tagline": "يحوّل صورتك إلى رمز ظلّي شرقي بجوار كتلة لونية كبيرة ذات حواف ناعمة متوهجة.",
+    "look": "يُختزل العنصر إلى ظلّ أو رمز، كدائرة أو قرص شمس أو شكل ختم أو غصن بأوراقه أو حدود إناء، ويوضع صغيراً في الإطار. وبجانبه مساحة كبيرة من لون مشبع بشكل هندسي منتظم، لكن حوافها مموّهة ومنتشرة مع توهّج خفيف، كأنها تسرّبت ببطء في الورق. الأرضية بيضاء كريمية فيها ألياف ورق الأرز أو الورق اليدوي. تُؤخذ من الصورة اثنان إلى أربعة ألوان وتُرتَّب في علاقات مثل القرمزي والأحمر الترابي والأصفر الدافئ والأخضر الصنوبري والأزرق الرمادي وأسود الحبر، والنص قليل يمزج الخط الصيني أو حروف سونغ أو حروف الأختام مع خط لاتيني مذيّل رفيع.",
+    "traits": [
+      "رموز شرقية بسيطة",
+      "حقل لوني منتشر كبير",
+      "حواف مموّهة متوهجة",
+      "ملمس ورق الأرز",
+      "عنصر صغير وفراغ واسع"
+    ],
+    "good": [
+      "عناصر يمكن أن تصير ظلاً أو رمزاً واحداً: غصن مزهر، معبد برجي، طائر، وعاء شاي",
+      "صور فيها إحساس بالفصول: شجرة في الثلج، أوراق الخريف، شروق أو غروب",
+      "صور يومية أو صور سفر لملصق موسمي أو هوية بصرية بروح شرقية أو بطاقة معرض"
+    ],
+    "poor": [
+      "صور شخصية أو جماعية يجب أن تحتفظ بالتفاصيل والهوية",
+      "مشاهد شوارع مزدحمة أو حفلات مليئة بالمعلومات",
+      "طلب إعادة رسم واقعية أو مظهر كرتوني أو ثلاثي الأبعاد أو زخرفة احتفالية تقليدية بالأحمر والذهبي تملأ الإطار"
+    ]
+  }
+}
